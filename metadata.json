@@ -1,0 +1,6 @@
+{
+  "name": "KHTN 8 Arena — Đấu Trường Khoa Học Tự Nhiên 8",
+  "description": "Nền tảng game hóa Khoa học Tự nhiên lớp 8 (Hóa học, Vật lý, Sinh học) với đấu trường tương tác 60fps, phòng thí nghiệm phân tử, trợ lý tư duy chuyên sâu và lịch học tập thông minh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
